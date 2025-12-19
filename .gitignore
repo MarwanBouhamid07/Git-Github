@@ -1,6 +1,11 @@
 node_modules/
 .env
+<<<<<<< HEAD
 *.log.env
  .name
  name
  name.html
+=======
+*.log
+.name
+>>>>>>> cc59524e24810176ec36a13d9dbac36682c2d39e
